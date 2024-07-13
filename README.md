@@ -20,3 +20,14 @@ Working with Variables in Python to Manage Data
 
 Projects/Exercises
     - Band Name Generator
+
+### Day 2
+
+Undersanding Data Types and How to Manipulate Strings
+    - python data types
+    - type checking and conversion
+    - string manipulation and formatting
+    - arithmetic operations
+
+Projects/Excercises
+ - Tip Calculator
