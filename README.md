@@ -7,27 +7,30 @@ Coming soon C and JS.
 ## Daily Progress
 
 ### Day 1
+
+To Do's:
 - git init with my local PC and repo
 - install VS Code and PyCharm 
 - updating Python and libs
+- installiny jupyter notebook
 
 Working with Variables in Python to Manage Data
-    - introduction to Python
-    - print function
-    - string manipulation
-    - variables
-    - user input
+- introduction to Python
+- print function
+- string manipulation
+- variables
+- user input
 
 Projects/Exercises
-    - Band Name Generator
+- Band Name Generator
 
 ### Day 2
 
 Undersanding Data Types and How to Manipulate Strings
-    - python data types
-    - type checking and conversion
-    - string manipulation and formatting
-    - arithmetic operations
+- python data types
+- type checking and conversion
+- string manipulation and formatting
+- arithmetic operations
 
 Projects/Excercises
- - Tip Calculator
+- Tip Calculator
