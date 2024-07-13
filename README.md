@@ -11,5 +11,12 @@ Coming soon C and JS.
 - install VS Code and PyCharm 
 - updating Python and libs
 
-learned:
-    - print()sd
+Working with Variables in Python to Manage Data
+    - introduction to Python
+    - print function
+    - string manipulation
+    - variables
+    - user input
+
+Projects/Exercises
+    - Band Name Generator
