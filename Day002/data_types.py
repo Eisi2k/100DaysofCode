@@ -20,3 +20,8 @@ print(num + num)
 # Float
 
 3.14159
+
+# Boolean
+
+True
+False

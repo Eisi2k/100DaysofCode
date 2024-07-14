@@ -9,12 +9,7 @@ people = int(input("How many people to split the bill? "))
 tip = tip / 100 * bill
 bill_ges = tip + bill
 final_amount = round(bill_ges / people, 2)
-
-
-
-# FAQ: How to round to 2 decimal places?
-
-# Find the answer in the Q&A here: https://www.udemy.com/course/100-days-of-code/learn/lecture/17965132#questions/13315048
+final_amount = "{:.2f}".format(final_amount) 
 
 
 print(f"Each person should pay: ${final_amount}")
