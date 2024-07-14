@@ -51,3 +51,4 @@ Projects/excercises
 - Treasure Island
 
 Control flow diagramms are done with draw.io
+ASCII art from: https://ascii.co.uk/art/treasure
