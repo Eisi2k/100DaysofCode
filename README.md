@@ -49,3 +49,5 @@ Projects/excercises
 - Pizza order practice
 - Love calculator
 - Treasure Island
+
+Control flow diagramms are done with draw.io
