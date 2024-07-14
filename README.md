@@ -34,3 +34,18 @@ Undersanding Data Types and How to Manipulate Strings
 
 Projects/Excercises
 - Tip Calculator
+
+### Day 3
+
+Control FLow and Logical Operators
+- control flow with if/else and conditional operators
+- nested if statements and elif statements
+- multiple if statements un succession
+- logical ioerators
+
+Projects/excercises
+- Odd or Even
+- BMI 2.0
+- Pizza order practice
+- Love calculator
+- Treasure Island
