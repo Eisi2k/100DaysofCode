@@ -52,3 +52,27 @@ Projects/excercises
 
 Control flow diagramms are done with draw.io
 ASCII art from: https://ascii.co.uk/art/treasure
+
+### Day 4
+
+Randomisation and Python Lists
+- random module
+- understanding the offset and appending items to lists
+- indexerrors and working with nested lists
+
+Projects/Excercises
+- Heads or Tails
+- banker roulette
+- treasure map
+- rock paper scissor
+
+
+
+
+
+
+
+
+
+
+
