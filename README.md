@@ -66,7 +66,31 @@ Projects/Excercises
 - treasure map
 - rock paper scissor
 
+### Day 5
 
+Python loops
+- for loop with Python lists
+- for loop and the range() function
+
+Projects/Excerises
+- Average height
+- High score
+- Adding even numbers
+- The FizzBuzz interview
+- Password generator
+
+### Day 6
+
+Python functions & Karel
+- Defining and Calling Python functions
+- The Hudles loop challange
+- Indentation in python
+- While loops
+- Hudles challanges using while loops
+
+Challange
+- Jumping over Hudles with variables heights
+- Escape the Maze
 
 
 
