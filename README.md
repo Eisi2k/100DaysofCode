@@ -92,6 +92,14 @@ Challange
 - Jumping over Hudles with variables heights
 - Escape the Maze
 
+### Day 7
+
+- How to break a complex problem down into a flow chart
+- Challange 1 Picking a randwom word and checking answers
+- Challange 2 Replacing blanks with guesses
+- Challange 3 Checking if the player won
+- Challange 4 keepen track of the player's lives
+- Challange 5 Improving the user experience
 
 
 
