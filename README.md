@@ -94,6 +94,7 @@ Challange
 
 ### Day 7
 
+Beginner Hangman
 - How to break a complex problem down into a flow chart
 - Challange 1 Picking a randwom word and checking answers
 - Challange 2 Replacing blanks with guesses
@@ -101,7 +102,20 @@ Challange
 - Challange 4 keepen track of the player's lives
 - Challange 5 Improving the user experience
 
+### Day 8
 
+Function paramters and Ceasar Cipger
+- Functions with Inputs
+- Positional vs. keyword arguments
+- Ceasar Cipher Encryption
+    - Encryption
+    - Decryption
+    - Reorganising our Code
+    - User Experience Improvements and final touch
+
+Projects
+- Paint Area Calculator
+- Prime number Checker
 
 
 
